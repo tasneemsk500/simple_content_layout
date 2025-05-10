@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+.header{
+    min-height: 100px;
+    background-color: red;
+}
+
+.container{
+    overflow: hidden
+}
+
+.contact{
+    float:left;
+    width:60%;
+    min-height: 200px;
+    background-color: greenyellow;
+}
+
+.blog{
+    float:right;
+    width:35%;
+    min-height: 200px;
+    background-color: blue;
+}
+
+.footer{
+    /* clear: both; */
+    min-height: 100px;
+    background-color: black;
+}
+
+.container1{
+    /* overflow: hidden */
+}
+
+.footer1{
+    clear: both;
+    min-height: 100px;
+    background-color: black;
+}
+
+.container2{
+    border: 10px solid yellow;
+    overflow: hidden;
+}
+
+.container2{
+    border: 10px solid yellow;
+}
